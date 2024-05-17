@@ -1,0 +1,1 @@
+This is my first web development project from the TOP curriculum. It will allow me to put the knowledge  I've acquired in the HTML Foundations to practice. It will consist of a main index page which will have links to a few recipes.
